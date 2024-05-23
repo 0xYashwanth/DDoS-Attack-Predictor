@@ -14,7 +14,7 @@ install [ryu-controller](https://ryu.readthedocs.io/en/latest/getting_started.ht
 Step-5
 Use git clone to install the code files
 ```bash
-git clone https://github.com/chiragbiradar/DDoS-Attack-Detection-and-Mitigation-using-Machine-Learning.git
+git clone https://github.com/0xYashwanth/DDoS-Attack-Predictor.git
 ```
 
 
